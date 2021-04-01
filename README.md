@@ -1,14 +1,14 @@
-# MeikyApi
+# MaulApi
 
 <div align="center">
 
  
 
-# Source Codes - IKY ADS API
+# Source Codes - MR-09 API
 
 <p align="center">
 
-<a href="#"><img title="の ＭｅＩｋｙ あ API" src="https://img.shields.io/badge/rizkiadiasa Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="の MR_09 あ API" src="https://img.shields.io/badge/rizkiadiasa Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
